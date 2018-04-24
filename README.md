@@ -1,6 +1,10 @@
 # CryptoTradingBot-Boilerplate
 A Configurable WhaleclubTrading Bot for Crypto currencies WIP
 
+![alt text](https://raw.githubusercontent.com/IljaSchumacher/CryptoTradingBot-Boilerplate/master/Readme_Screenshot_1.png)
+![alt text](https://raw.githubusercontent.com/IljaSchumacher/CryptoTradingBot-Boilerplate/master/Readme_Screenshot_2.png)
+
+
 lib/Indicator.py:
 Technical Indicators are calculated here
 
